@@ -24,7 +24,7 @@ superHeroe3.superpoder.nombre = "Tiene un control ilimitado sobre el rayo";
 superHeroe3.superpoder.descripcion = "Puede proyectarlo, manipularlo y utilizarlo de cualquier forma que se le ocurra";
 superHeroe3.superpoder.nivel = 9;
 
-
+/* Imprensión de los datos */
     Console.WriteLine($"Super Heroe :"+ "   " + superHeroe1.nombre);
     Console.WriteLine($"Identidad Secreta :" + "   " + superHeroe1.identidadsecreta);
     Console.WriteLine($"Ciudad :"+ "   " + superHeroe1.ciudad);
